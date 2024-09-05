@@ -14,7 +14,7 @@ const App = () => {
                     render={() => (
                         <div className="header">
                             <h1 className="greeting">Thanks for visiting my portfolio!</h1>
-                            <main>Hi, I'm Michael. An aspiring software developer with a background in the service industry.
+                            <main className="intro">Hi, I'm Michael. An aspiring software developer with a background in the service industry.
                                 I was a server for 6 years, and decided I wanted to pursue software. I graduated from Turing School of Software and Design,
                                 where I learned frontend Development, specializing in the React framework.
                             </main>
@@ -24,7 +24,7 @@ const App = () => {
                                 <button className="hobbies">Hobbies</button>
                             </Link>
                             <Link to={'/experiences'}>
-                                <button className="experience">Experience</button>
+                                <button className="experience">Work and Project Experience</button>
                             </Link>
                         </div>
                     )

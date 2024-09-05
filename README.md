@@ -1,2 +1,2 @@
 # portfolio
-Does it work ?
+This is my portfolio! Here you will find the projects I am most proud of, as well as show off my skill as a front end developer the best. Thanks for visiting! If you want a quick glimpse at my tech stack, I have learned GraphQL, React.js, TypeScript and styling with CSS and HTML. I learned unit testing with Mocha/chai, as well as End to End testing with Cypress.io
