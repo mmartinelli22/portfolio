@@ -1,5 +1,17 @@
 body {
   background-image: url('/./src/Images/backgroundImage.jpg');
+  background-size: 1600px;
+
+}
+
+.greeting {
+  color: rgb(0, 0, 0);
+  font-weight: 900;
+}
+
+.intro {
+  color: rgb(0, 0, 0);
+  font-weight: 900;
 }
 
 .portfile {
